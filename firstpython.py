@@ -1,0 +1,1 @@
+print('nEw PyThoN fIlE')
